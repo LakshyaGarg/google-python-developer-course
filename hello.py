@@ -31,3 +31,10 @@ def main():
 # This is the standard boilerplate that calls the main() function.
 if __name__ == '__main__':
   main()
+  
+  #We can also check it using other commands
+  #print('Enter the string 'Hello World' ')
+  #s=input()
+  #print(s)
+  
+  #similarly we can check other library functions.
